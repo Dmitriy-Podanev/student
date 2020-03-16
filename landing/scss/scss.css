@@ -1,0 +1,200 @@
+* {
+  margin: 0;
+}
+
+.page-2 {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-rows: 190px 100px 520px 100px;
+      grid-template-rows: 190px 100px 520px 100px;
+  -ms-grid-columns: 180px 1fr 60px 1fr 180px;
+      grid-template-columns: 180px 1fr 60px 1fr 180px;
+  border: solid 2px black;
+}
+
+.page-2 .text-logo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: column;
+          flex-flow: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-grid-row: 2;
+      grid-row-start: 2;
+  grid-row-end: 3;
+  -ms-grid-column: 2;
+      grid-column-start: 2;
+  grid-column-end: 5;
+}
+
+.page-2 .text-logo h2 {
+  font-family: "GothamProBlack";
+  font-size: 2em;
+  margin-bottom: 3px;
+  margin-top: 0;
+}
+
+.page-2 .block-left {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: column;
+          flex-flow: column;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -ms-grid-column: 2;
+      grid-column-start: 2;
+  grid-column-end: 3;
+  -ms-grid-row: 3;
+      grid-row-start: 3;
+  grid-row-end: 4;
+}
+
+.page-2 .block-left .block span {
+  font-size: 15pt;
+  font-weight: 800;
+  padding-bottom: 10px;
+}
+
+.page-2 .block-left .block .main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.page-2 .block-left .block .main .image {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  min-width: 80px;
+}
+
+.page-2 .block-left .block .main .text {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: column;
+          flex-flow: column;
+  min-height: 110px;
+}
+
+.page-2 .block-right {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: column;
+          flex-flow: column;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -ms-grid-column: 4;
+      grid-column-start: 4;
+  grid-column-end: 5;
+  -ms-grid-row: 3;
+      grid-row-start: 3;
+  grid-row-end: 4;
+}
+
+.page-2 .block-right .block span {
+  font-size: 15pt;
+  font-weight: 800;
+  padding-bottom: 10px;
+}
+
+.page-2 .block-right .block .main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.page-2 .block-right .block .main .image {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  min-width: 80px;
+}
+
+.page-2 .block-right .block .main .text {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: column;
+          flex-flow: column;
+  min-height: 110px;
+}
+
+.page-3 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: row;
+          flex-flow: row;
+  height: 535px;
+}
+
+.page-3 .text-about {
+  color: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: column;
+          flex-flow: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding-right: 220px;
+  padding-left: 60px;
+  background-color: #ffc155;
+}
+
+.page-3 .text-about h1 {
+  margin-bottom: 15px;
+  font-family: "GrothamProBlack";
+  font-size: 2em;
+}
+
+.page-3 .text-about p {
+  font-size: 15px;
+}
+
+.page-3 .text-about input[type="button"] {
+  color: black;
+  border: 2px solid rgba(0, 0, 0, 0.425);
+  margin-top: 33px;
+  width: 120px;
+  height: 40px;
+  cursor: pointer;
+  font-weight: 200px;
+}
+
+.page-3 .text-about .button input:active {
+  background-color: white;
+}
+/*# sourceMappingURL=scss.css.map */

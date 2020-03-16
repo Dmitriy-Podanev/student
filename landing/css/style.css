@@ -1,0 +1,179 @@
+.html {
+  box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+body {
+  display: grid;
+  grid-template-rows: auto;
+  margin: 0;
+}
+.page-1 {
+  display: grid;
+
+  grid-template-rows: 92px 590px;
+}
+.header {
+  display: grid;
+  grid-template-areas: ". LOGO NAV .";
+  grid-template-columns: 150px 1fr 3fr 150px;
+}
+.logo {
+  grid-area: LOGO;
+  align-items: flex-start;
+}
+.navigation {
+  grid-area: NAV;
+  display: flex;
+  justify-content: space-around;
+
+  align-items: center;
+}
+.navigation .nav {
+  font-size: 10pt;
+  text-decoration: none;
+  direction: none;
+  justify-self: center;
+  position: relative;
+  color: rgba(0, 0, 0, 0.726);
+  font-weight: 500;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.navigation .p:hover {
+  transition: 0.4s;
+  color: darkgoldenrod;
+}
+
+.test {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  height: 43px;
+  width: 80px;
+  background-color: #ffbb42;
+  border: solid 1px white;
+  border-radius: 1ex;
+}
+.test:hover {
+  border: 1px solid black;
+  transition: 0.4s;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  padding-top: 20px;
+}
+.post-header {
+  display: grid;
+  grid-template-rows: 15% 20% 15% 1fr;
+  color: white;
+  display: grid;
+  background-color: #709dca;
+}
+
+.post-header .title {
+  grid-row-start: 2;
+  grid-row-end: 3;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.post-header .title h1 {
+  margin-bottom: 2px;
+  font-family: "GothamProBlack";
+}
+.post-header .title span {
+  font-size: 15px;
+  font-family: "GothamProRegular";
+}
+
+.post-header .laptop {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  grid-row-start: 4;
+}
+.post-header .laptop img {
+  position: absolute;
+  top: 50px;
+}
+.post-header .mail-form .constructor {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+}
+.post-header .mail-form {
+  grid-row-start: 3;
+  grid-row-end: 4;
+}
+input[type="text"],
+input[type="email"],
+input[type="tel"] {
+  width: 280px;
+  height: 40px;
+  font-size: 10pt;
+  margin-left: 2px;
+  margin-right: 2px;
+  border-radius: 5px;
+  border: 1px solid black;
+  padding-left: 30px;
+}
+input[type="submit"] {
+  margin-left: 2px;
+  width: 170px;
+  height: 40px;
+  background-color: #ffbb42;
+  border-radius: 5px;
+  color: white;
+  padding-left: 10px;
+  font-size: 12pt;
+  border: none;
+  font-weight: 100;
+}
+.dws-input::before {
+  font-family: "FontAwesome";
+  content: "\f007";
+  position: absolute;
+  color: #6e6e6e;
+  font-size: 19px;
+  padding: 13px 0 0 12px;
+}
+.dws-input:nth-child(2)::before {
+  content: "\f0e0";
+  font-size: 17px;
+}
+.dws-input:nth-child(3)::before {
+  content: "\f095 ";
+}
+.dws-input:hover::before {
+  transition: 0.9s;
+  color: silver;
+}
+
+
+.page-3 {
+  border: solid 2px black;
+}
+.page-4 {
+  border: solid 2px black;
+}
+.page-5 {
+  border: solid 2px black;
+}
+.page-6 {
+  border: solid 2px black;
+}
+.page-7 {
+  border: solid 2px black;
+}
+.page-8 {
+  border: solid 2px black;
+}

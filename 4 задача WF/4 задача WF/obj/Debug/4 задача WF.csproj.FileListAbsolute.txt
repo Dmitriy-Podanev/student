@@ -1,0 +1,10 @@
+C:\Users\79205\source\repos\4 задача WF\4 задача WF\bin\Debug\4 задача WF.exe.config
+C:\Users\79205\source\repos\4 задача WF\4 задача WF\bin\Debug\4 задача WF.exe
+C:\Users\79205\source\repos\4 задача WF\4 задача WF\bin\Debug\4 задача WF.pdb
+C:\Users\79205\source\repos\4 задача WF\4 задача WF\obj\Debug\4 задача WF.csprojAssemblyReference.cache
+C:\Users\79205\source\repos\4 задача WF\4 задача WF\obj\Debug\_4_задача_WF.Form1.resources
+C:\Users\79205\source\repos\4 задача WF\4 задача WF\obj\Debug\_4_задача_WF.Properties.Resources.resources
+C:\Users\79205\source\repos\4 задача WF\4 задача WF\obj\Debug\4 задача WF.csproj.GenerateResource.cache
+C:\Users\79205\source\repos\4 задача WF\4 задача WF\obj\Debug\4 задача WF.csproj.CoreCompileInputs.cache
+C:\Users\79205\source\repos\4 задача WF\4 задача WF\obj\Debug\4 задача WF.exe
+C:\Users\79205\source\repos\4 задача WF\4 задача WF\obj\Debug\4 задача WF.pdb

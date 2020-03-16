@@ -1,0 +1,25 @@
+C:\Users\Макс\OneDrive\VSU\KGGM\2 BresenhamLine\1\bin\Debug\2 BresenhamLine.exe.config
+C:\Users\Макс\OneDrive\VSU\KGGM\2 BresenhamLine\1\bin\Debug\2 BresenhamLine.exe
+C:\Users\Макс\OneDrive\VSU\KGGM\2 BresenhamLine\1\bin\Debug\2 BresenhamLine.pdb
+C:\Users\Макс\OneDrive\VSU\KGGM\2 BresenhamLine\1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Макс\OneDrive\VSU\KGGM\2 BresenhamLine\1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Макс\OneDrive\VSU\KGGM\2 BresenhamLine\1\obj\Debug\2 BresenhamLine.csprojAssemblyReference.cache
+C:\Users\Макс\OneDrive\VSU\KGGM\2 BresenhamLine\1\obj\Debug\_1.Form1.resources
+C:\Users\Макс\OneDrive\VSU\KGGM\2 BresenhamLine\1\obj\Debug\_1.Properties.Resources.resources
+C:\Users\Макс\OneDrive\VSU\KGGM\2 BresenhamLine\1\obj\Debug\2 BresenhamLine.csproj.GenerateResource.cache
+C:\Users\Макс\OneDrive\VSU\KGGM\2 BresenhamLine\1\obj\Debug\2 BresenhamLine.csproj.CoreCompileInputs.cache
+C:\Users\Макс\OneDrive\VSU\KGGM\2 BresenhamLine\1\obj\Debug\2 BresenhamLine.csproj.CopyComplete
+C:\Users\Макс\OneDrive\VSU\KGGM\2 BresenhamLine\1\obj\Debug\2 BresenhamLine.exe
+C:\Users\Макс\OneDrive\VSU\KGGM\2 BresenhamLine\1\obj\Debug\2 BresenhamLine.pdb
+E:\2 BresenhamLine\1\bin\Debug\2 BresenhamLine.exe.config
+E:\2 BresenhamLine\1\bin\Debug\2 BresenhamLine.exe
+E:\2 BresenhamLine\1\bin\Debug\2 BresenhamLine.pdb
+E:\2 BresenhamLine\1\bin\Debug\Newtonsoft.Json.xml
+E:\2 BresenhamLine\1\obj\Debug\2 BresenhamLine.csprojAssemblyReference.cache
+E:\2 BresenhamLine\1\obj\Debug\_1.Form1.resources
+E:\2 BresenhamLine\1\obj\Debug\_1.Properties.Resources.resources
+E:\2 BresenhamLine\1\obj\Debug\2 BresenhamLine.csproj.GenerateResource.cache
+E:\2 BresenhamLine\1\obj\Debug\2 BresenhamLine.csproj.CoreCompileInputs.cache
+E:\2 BresenhamLine\1\obj\Debug\2 BresenhamLine.csproj.CopyComplete
+E:\2 BresenhamLine\1\obj\Debug\2 BresenhamLine.exe
+E:\2 BresenhamLine\1\obj\Debug\2 BresenhamLine.pdb
